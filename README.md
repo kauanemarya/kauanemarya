@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu Perfil 🌸
 
-<!--
-**kauanemarya/kauanemarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  Meu nome é Kauane Maria
+  Estou estudando na Alura
+  Estou me desenvouvendo no p5.js
+  Utilizo esse espaço para minha organização e compartilhamentos dos meus projetos
 
-Here are some ideas to get you started:
+  ### Você pode entrar em contato comigo 📫
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  kauanedepaula@gmail.com
+
+
+  ![]![image](https://github.com/kauanemarya/kauanemarya/assets/173702428/f8c60391-3b9f-4dba-b720-9784bbb90836)
+
+
